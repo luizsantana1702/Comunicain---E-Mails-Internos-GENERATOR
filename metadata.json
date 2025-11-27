@@ -1,0 +1,5 @@
+{
+  "name": "Sebrae Comunicain Generator",
+  "description": "Internal email generator for Sebrae with AI-powered editing and version control.",
+  "requestFramePermissions": []
+}
